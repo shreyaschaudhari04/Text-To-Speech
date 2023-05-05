@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #9d4cdb;
+  background-image: url(pexels-pixabay-531880.jpg);
 }
 ::selection{
   color: #fff;
